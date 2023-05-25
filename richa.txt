@@ -1,0 +1,6 @@
+Hi
+This is my first commit from git bash
+Regards
+Richa Srivastava
+Learning git rom Kunal Kushwaha youtube video
+
